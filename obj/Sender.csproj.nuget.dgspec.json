@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fergg\\code\\RabbitMQSender\\Sender\\Sender.csproj": {}
+    "C:\\Users\\fergg\\code\\RabbitMQSender\\sender\\Sender.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fergg\\code\\RabbitMQSender\\Sender\\Sender.csproj": {
+    "C:\\Users\\fergg\\code\\RabbitMQSender\\sender\\Sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fergg\\code\\RabbitMQSender\\Sender\\Sender.csproj",
+        "projectUniqueName": "C:\\Users\\fergg\\code\\RabbitMQSender\\sender\\Sender.csproj",
         "projectName": "Sender",
-        "projectPath": "C:\\Users\\fergg\\code\\RabbitMQSender\\Sender\\Sender.csproj",
+        "projectPath": "C:\\Users\\fergg\\code\\RabbitMQSender\\sender\\Sender.csproj",
         "packagesPath": "C:\\Users\\fergg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fergg\\code\\RabbitMQSender\\Sender\\obj\\",
+        "outputPath": "C:\\Users\\fergg\\code\\RabbitMQSender\\sender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fergg\\AppData\\Roaming\\NuGet\\NuGet.Config",
